@@ -148,11 +148,23 @@ Rrrr?
 
 Nah. It's the C.
 
+---
+
+How much does a pirate pay for corn?
+
+A bucaneer.
+
 # Cross-eyed Teacher
 
 Why was the teacher cross-eyed?
 
 Because he couldn't control his pupils.
+
+# Buckets
+
+What did the big bucket say to the little bucket?
+
+You look a little pail!
 
 # The Man Who Loves Trains
 
@@ -204,7 +216,7 @@ The second man decides to try this great strategy. He follows suit with his own 
 
 To which the second man is incredulous, "WHAT?! THEY GAVE ME A CHIHUAHUA?!"
 
-# Blind People
+# Blind
 
 A priest, a doctor, and an engineer are waiting one morning for a particularly slow group of golfers. The engineer fumes, “What’s with those guys? We must have been waiting for 15 minutes!”
 
@@ -257,6 +269,46 @@ The warden says, "Oh really? This I've got to see. If you can prove it, I'll let
 The fisherman empties the bucket into the lake and waits patiently. A few minutes go by and nothing happens. The game warden says, "So where are the fish?"
 
 The fisherman replies, "What fish?"
+
+# Calendars
+
+What fruit do calendars eat?
+
+Dates
+
+# Sand
+
+Why was the sand wet?
+
+Because the sea weed.
+
+# Bee hair
+
+What do you call a bee with bad hair?
+
+A FrisBee.
+
+# Little Grape
+
+What did the grape say after the farmer stepped on it?
+
+Nothing, it just let out a little whine!
+
+# Astronomer
+
+Why did the astronomer dump ground beef on his head?
+
+He wanted a meatier shower!
+
+# Two beers
+
+A man walks into a bar with a big slab of asphalt in his backpack. He says to the bartender, "I’ll take a beer, and one for the road."
+
+# Star Wars Christmas
+
+How did Darth Vader know what Luke and Leia got him for Christmas?
+
+He felt his presents.
 
 # Chicken Coup
 
