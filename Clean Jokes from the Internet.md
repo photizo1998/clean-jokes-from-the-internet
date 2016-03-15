@@ -520,7 +520,7 @@ A farmer grabs his 10-year-old son and asks, “Did you cut down that cherry tre
 
 As punishment, the farmer makes the boy clean the out-house and shovel all horse poo out of the stables.
 
-“But, Daddy,” the boy cries when he's finally done, “George Washington’s father didn’t do make him do all this when he cut down that cherry tree when he was a boy!”
+“But, Daddy,” the boy cries when he's finally done, “George Washington’s father didn’t make him do all this when he cut down that cherry tree when he was a boy!”
 
 “That’s true,” the father replies, “but George Washington’s father wasn’t sitting in the tree when he cut it down!”
 
