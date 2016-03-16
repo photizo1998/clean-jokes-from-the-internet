@@ -344,12 +344,6 @@ What’s red and moves up and down?
 
 A tomato in an elevator.
 
-# Walking
-
-Never criticize someone until you have walked a mile in their shoes.
-
-That way, when you criticize them, you’ll be a mile away, and you’ll have their shoes.
-
 # Wrapped Food
 
 Sometimes, I wrap sushi rice and fish in seaweed...
