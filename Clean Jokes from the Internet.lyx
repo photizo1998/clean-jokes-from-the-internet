@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass memoir
+\begin_preamble
+\usepackage{pdfpages}
+\end_preamble
 \use_default_options true
 \maintain_unincluded_children false
 \language english
@@ -62,6 +65,22 @@
 
 \begin_body
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+includepdf[pages=-, offset=-210 0]{./cover.pdf}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Title
 Clean Jokes from the Internet
 \end_layout
@@ -100,26 +119,63 @@ Hearing Problem
 \end_layout
 
 \begin_layout Standard
-A man goes to his doctor and says, "I don't think my wife's hearing is as
- good as it used to be.
- What should I do?"
+A man goes to his doctor and says, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't think my wife's hearing is as good as it used to be.
+ What should I do?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The doctor replies, "Try this test to find out for sure.
+The doctor replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Try this test to find out for sure.
  When your wife is in the kitchen doing dishes, stand fifteen feet behind
  her and ask her a question, if she doesn't respond keep moving closer,
- asking the question until she hears you."
+ asking the question until she hears you.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The man goes home and sees his wife preparing dinner.
- He stands fifteen feet behind her and says, "What's for dinner, honey?"
+ He stands fifteen feet behind her and says, 
+\begin_inset Quotes eld
+\end_inset
+
+What's for dinner, honey?
+\begin_inset Quotes erd
+\end_inset
+
  He gets no response, so he moves to ten feet behind her and asks again.
  Still no response, so he moves to five feet.
  Still no answer.
- Finally he stands directly behind her and says, "Honey, what's for dinner?"
- She replies, "For the fourth time, I SAID WE ARE HAVING CHICKEN!"
+ Finally he stands directly behind her and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Honey, what's for dinner?
+\begin_inset Quotes erd
+\end_inset
+
+ She replies, 
+\begin_inset Quotes eld
+\end_inset
+
+For the fourth time, I SAID WE ARE HAVING CHICKEN!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -144,23 +200,58 @@ An older fellow is talking to his doctor.
 \end_layout
 
 \begin_layout Standard
-"How long do I have?"
+\begin_inset Quotes eld
+\end_inset
+
+How long do I have?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"10"
+\begin_inset Quotes eld
+\end_inset
+
+10
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"10 what?"
+\begin_inset Quotes eld
+\end_inset
+
+10 what?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"9"
+\begin_inset Quotes eld
+\end_inset
+
+9
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"8"\SpecialChar \ldots{}
+\begin_inset Quotes eld
+\end_inset
+
+8
+\begin_inset Quotes erd
+\end_inset
+
+\SpecialChar \ldots{}
 
 \end_layout
 
@@ -173,16 +264,47 @@ At the doctor's office, Tom is getting a check up.
 \end_layout
 
 \begin_layout Standard
-"I have good news and bad news," says the doctor.
- "The good news is you have 24 hours left to live."
+\begin_inset Quotes eld
+\end_inset
+
+I have good news and bad news,
+\begin_inset Quotes erd
+\end_inset
+
+ says the doctor.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The good news is you have 24 hours left to live.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Tom replies, "That's the good news?!"
+Tom replies, 
+\begin_inset Quotes eld
+\end_inset
+
+That's the good news?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The doctor says, "The bad news is I should have told you that yesterday."
+The doctor says, 
+\begin_inset Quotes eld
+\end_inset
+
+The bad news is I should have told you that yesterday.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -195,33 +317,92 @@ A man goes to the vet with a hamster.
 \end_layout
 
 \begin_layout Standard
-"You have to help me!" he says to the vet.
- "It's Hammy the Hamster! He's very ill".
+\begin_inset Quotes eld
+\end_inset
+
+You have to help me!
+\begin_inset Quotes erd
+\end_inset
+
+ he says to the vet.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It's Hammy the Hamster! He's very ill.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The vet takes a look, gets his stethoscope out and checks.
- He replies, "I'm so sorry.
- I'm afraid this hamster is dead."
+ He replies, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm so sorry.
+ I'm afraid this hamster is dead.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Nooooo!" cries the man.
- "Not Hammy! He can't be! He was running around just fine this morning!"
+\begin_inset Quotes eld
+\end_inset
+
+Nooooo!
+\begin_inset Quotes erd
+\end_inset
+
+ cries the man.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Not Hammy! He can't be! He was running around just fine this morning!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"I'm afraid he is dead, sir.
- I'm terribly sorry".
+\begin_inset Quotes eld
+\end_inset
+
+I'm afraid he is dead, sir.
+ I'm terribly sorry.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"I don't believe you! I want a second opinion!" shouts the man.
+\begin_inset Quotes eld
+\end_inset
+
+I don't believe you! I want a second opinion!
+\begin_inset Quotes erd
+\end_inset
+
+ shouts the man.
  He's obviously very agitated.
 \end_layout
 
 \begin_layout Standard
-"If you're sure, sir" replies the vet, and opens a door.
+\begin_inset Quotes eld
+\end_inset
+
+If you're sure, sir.
+\begin_inset Quotes erd
+\end_inset
+
+ replies the vet, and opens a door.
  A small tabby cat walks into the room, jumps up on the examination table,
  and looks at the hamster.
  He pokes it a bit with his paw, licks the hamster in the face, and looks
@@ -229,20 +410,56 @@ The vet takes a look, gets his stethoscope out and checks.
 \end_layout
 
 \begin_layout Standard
-"I'm afraid that's conclusive, sir" says the vet, as the tabby jumped down
- and walked out of the door.
- "This hamster is dead."
+\begin_inset Quotes eld
+\end_inset
+
+I'm afraid that's conclusive, sir.
+\begin_inset Quotes erd
+\end_inset
+
+ says the vet, as the tabby jumped down and walked out of the door.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This hamster is dead.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"I can't take it in!" shouts the man.
+\begin_inset Quotes eld
+\end_inset
+
+I can't take it in!
+\begin_inset Quotes erd
+\end_inset
+
+ shouts the man.
  He's even more agitated.
- "I still don't believe you.
- Isn't there anything else you can do to check?"
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I still don't believe you.
+ Isn't there anything else you can do to check?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"If you're sure, sir" says the vet and opens another door.
+\begin_inset Quotes eld
+\end_inset
+
+If you're sure, sir.
+\begin_inset Quotes erd
+\end_inset
+
+ says the vet and opens another door.
  This time, a labrador walks in, hops up on the examination table, and looks
  at the hamster.
  He nuzzles it with his nose, sniffs it carefully, and looks up at the vet
@@ -250,26 +467,61 @@ The vet takes a look, gets his stethoscope out and checks.
 \end_layout
 
 \begin_layout Standard
-"I'm so very sorry sir" says the vet.
+\begin_inset Quotes eld
+\end_inset
+
+I'm so very sorry sir.
+\begin_inset Quotes erd
+\end_inset
+
+ says the vet.
  The man looks defeated.
 \end_layout
 
 \begin_layout Standard
-"I suppose it must be true." says the man.
+\begin_inset Quotes eld
+\end_inset
+
+I suppose it must be true.
+\begin_inset Quotes erd
+\end_inset
+
+ says the man.
 \end_layout
 
 \begin_layout Standard
-"I'm afraid so.
- And I have some more bad news - that's going to be $1200.00."
+\begin_inset Quotes eld
+\end_inset
+
+I'm afraid so.
+ And I have some more bad news - that's going to be $1200.00.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"What? You're charging me that much just to tell me my hamster is dead?"
+\begin_inset Quotes eld
+\end_inset
+
+What? You're charging me that much just to tell me my hamster is dead?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Well, it would have been free, sir - but you did insist on the cat scan
- and the lab work."
+\begin_inset Quotes eld
+\end_inset
+
+Well, it would have been free, sir - but you did insist on the cat scan
+ and the lab work.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -281,9 +533,16 @@ A man is terribly overweight, so his doctor puts him on a diet.
 \end_layout
 
 \begin_layout Standard
-"I want you to eat regularly for 2 days, then skip a day, and repeat this
+\begin_inset Quotes eld
+\end_inset
+
+I want you to eat regularly for 2 days, then skip a day, and repeat this
  procedure for two weeks.
- The next time I see you, you'll have lost at least 5 pounds."
+ The next time I see you, you'll have lost at least 5 pounds.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -291,20 +550,57 @@ When the man returns, he shocks the doctor by losing nearly twenty pounds.
 \end_layout
 
 \begin_layout Standard
-"Why, that's amazing!" the doctor says, "Did you follow my instructions?"
+\begin_inset Quotes eld
+\end_inset
+
+Why, that's amazing!
+\begin_inset Quotes erd
+\end_inset
+
+ the doctor says, 
+\begin_inset Quotes eld
+\end_inset
+
+Did you follow my instructions?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The man nods.
- "I'll tell you, though, I thought I was going to drop dead that third day."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll tell you, though, I thought I was going to drop dead that third day.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"From hunger, you mean?"
+\begin_inset Quotes eld
+\end_inset
+
+From hunger, you mean?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"No, from all the skipping."
+\begin_inset Quotes eld
+\end_inset
+
+No, from all the skipping.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter*
@@ -316,12 +612,43 @@ Geometry
 \end_layout
 
 \begin_layout Standard
-A teacher asks, "Johnny, make up a sentence using the word, 'geometry.'"
+A teacher asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Johnny, make up a sentence using the word, 
+\begin_inset Quotes els
+\end_inset
+
+geometry.
+\begin_inset Quotes ers
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Johnny replies, "An acorn grew until it finally looked at itself one day
- and said, 'Gee, I'm a tree.'"
+Johnny replies, 
+\begin_inset Quotes eld
+\end_inset
+
+An acorn grew until it finally looked at itself one day and said, 
+\begin_inset Quotes els
+\end_inset
+
+Gee, I'm a tree.
+\begin_inset Quotes ers
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -329,16 +656,47 @@ Beans
 \end_layout
 
 \begin_layout Standard
-A teacher asks her students to use the word "beans" in a sentence.
+A teacher asks her students to use the word 
+\begin_inset Quotes eld
+\end_inset
+
+beans
+\begin_inset Quotes erd
+\end_inset
+
+ in a sentence.
 \end_layout
 
 \begin_layout Standard
-"My father grows beans," says one girl.
- "My mother cooks beans," says a boy.
+\begin_inset Quotes eld
+\end_inset
+
+My father grows beans,
+\begin_inset Quotes erd
+\end_inset
+
+ says one girl.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My mother cooks beans,
+\begin_inset Quotes erd
+\end_inset
+
+ says a boy.
 \end_layout
 
 \begin_layout Standard
-Johnny speaks up, "We are all human beans."
+Johnny speaks up, 
+\begin_inset Quotes eld
+\end_inset
+
+We are all human beans.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -346,20 +704,51 @@ Home Early
 \end_layout
 
 \begin_layout Standard
-One day, Johnny gets home early from school and his mom asks, "Why are you
- home so early?"
+One day, Johnny gets home early from school and his mom asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Why are you home so early?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-He answers, "Because I was the only one that answered a question in my class."
+He answers, 
+\begin_inset Quotes eld
+\end_inset
+
+Because I was the only one that answered a question in my class.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-His mom says, "Wow! My son is a genius! What was the question?"
+His mom says, 
+\begin_inset Quotes eld
+\end_inset
+
+Wow! My son is a genius! What was the question?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Johnny replies, "The question was 'Who threw the trash can at the principal?'"
+Johnny replies, 
+\begin_inset Quotes eld
+\end_inset
+
+The question was 'Who threw the trash can at the principal?'
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -408,19 +797,40 @@ As he's walking, he comes upon a young boy, maybe twelve years old, crying
 \end_layout
 
 \begin_layout Standard
-"Excuse me, son? Why are you crying?" he asks gently.
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me, son? Why are you crying?
+\begin_inset Quotes erd
+\end_inset
+
+ he asks gently.
 \end_layout
 
 \begin_layout Standard
-The boy wipes away his tears and replies, "Oh, there's just a lot of things
- going wrong in my life right now.
- I'm sorry if I bothered you."
+The boy wipes away his tears and replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, there's just a lot of things going wrong in my life right now.
+ I'm sorry if I bothered you.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Mr.
- Smith takes note of the boy's politeness, "Is there anything I can do to
- help? Why don't you tell me what's going on..."
+ Smith takes note of the boy's politeness, 
+\begin_inset Quotes eld
+\end_inset
+
+Is there anything I can do to help? Why don't you tell me what's going on...
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -435,7 +845,15 @@ With that, the boy breaks down and sobs.
  notice on the door, and he just couldn't bring himself to go inside to
  give her the news.
  Everything is falling apart, and he can't take it.
- "So I came here and cried," he finished.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+So I came here and cried,
+\begin_inset Quotes erd
+\end_inset
+
+ he finished.
 \end_layout
 
 \begin_layout Standard
@@ -450,29 +868,80 @@ Mr.
 \end_layout
 
 \begin_layout Standard
-"Son," Mr.
- Smith begins, "what's your name?"
+\begin_inset Quotes eld
+\end_inset
+
+Son,
+\begin_inset Quotes erd
+\end_inset
+
+ Mr.
+ Smith begins, 
+\begin_inset Quotes eld
+\end_inset
+
+what's your name?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"My name is Johnny," the boy says.
+\begin_inset Quotes eld
+\end_inset
+
+My name is Johnny,
+\begin_inset Quotes erd
+\end_inset
+
+ the boy says.
 \end_layout
 
 \begin_layout Standard
-"Johnny, you see that ship out there," he says, gesturing to a ship about
- a mile out from the dock.
- "I'll make you a deal.
+\begin_inset Quotes eld
+\end_inset
+
+Johnny, you see that ship out there,
+\begin_inset Quotes erd
+\end_inset
+
+ he says, gesturing to a ship about a mile out from the dock.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'll make you a deal.
  If you can swim out to that ship, climb up the mast, and wave to me, I
- will write you a check for one million dollars."
+ will write you a check for one million dollars.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Johnny is awestruck.
- "You really mean it?!"
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You really mean it?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Absolutely," Mr.
+\begin_inset Quotes eld
+\end_inset
+
+Absolutely,
+\begin_inset Quotes erd
+\end_inset
+
+ Mr.
  Smith confirms.
 \end_layout
 
@@ -486,8 +955,15 @@ Johnny dives into the water without a word and swims like a madman.
 \end_layout
 
 \begin_layout Standard
-"Well that's ok, Johnny.
- Tomorrow, let's meet here, same time, and you can try again."
+\begin_inset Quotes eld
+\end_inset
+
+Well that's ok, Johnny.
+ Tomorrow, let's meet here, same time, and you can try again.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -505,12 +981,27 @@ The next day, they meet and Johnny tries again, but once again he gets fatigued
 \begin_layout Standard
 The next day, Mr.
  Smith arrives and Johnny is waiting at the dock with a smile on his face.
- "You all fed and ready?" Mr.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You all fed and ready?
+\begin_inset Quotes erd
+\end_inset
+
+ Mr.
  Smith asks.
 \end_layout
 
 \begin_layout Standard
-"Yes sir," says Johnny.
+\begin_inset Quotes eld
+\end_inset
+
+Yes sir,
+\begin_inset Quotes erd
+\end_inset
+
+ says Johnny.
  With that, Johnny dives into the water.
  This time he swims a bit slower.
  He seems to be pacing himself.
@@ -664,8 +1155,16 @@ In a Store
 A blind guy walks into a store and starts swinging his seeing eye dog around
  his head.
  An employee comes over and nervously asks if he can help.
- The blind guy replies, "No thanks.
- I'm just looking around."
+ The blind guy replies, 
+\begin_inset Quotes eld
+\end_inset
+
+No thanks.
+ I'm just looking around.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -674,23 +1173,61 @@ Drinks with Dogs
 
 \begin_layout Standard
 Two men meet in a park while walking their dogs and start chatting.
- They hit it off, and after a bit, one says to the other, "Let's going grab
- a drink in that bar!"
+ They hit it off, and after a bit, one says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+Let's going grab a drink in that bar!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The other says, "I'd love to, but I hate leaving my dog outside."
+The other says, 
+\begin_inset Quotes eld
+\end_inset
+
+I'd love to, but I hate leaving my dog outside.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The first man replies, "Just follow my lead!"
+The first man replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Just follow my lead!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 He puts on a pair of dark sunglasses, and walks into the bar with his dog.
- The bartender immediately stops him and says, "I'm sorry sir, but we don't
- allow dogs in this bar." The man replies, "This is my seeing eye dog.
- I need him with me." The bartender lets him have a seat.
+ The bartender immediately stops him and says, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry sir, but we don't allow dogs in this bar.
+\begin_inset Quotes erd
+\end_inset
+
+ The man replies, 
+\begin_inset Quotes eld
+\end_inset
+
+This is my seeing eye dog.
+ I need him with me.
+\begin_inset Quotes erd
+\end_inset
+
+ The bartender lets him have a seat.
 \end_layout
 
 \begin_layout Standard
@@ -702,11 +1239,26 @@ The second man decides to try this great strategy.
 \end_layout
 
 \begin_layout Standard
-"Sir, chihuahuas are not seeing eye dogs!"
+\begin_inset Quotes eld
+\end_inset
+
+Sir, chihuahuas are not seeing eye dogs!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-To which the second man is incredulous, "WHAT?! THEY GAVE ME A CHIHUAHUA?!"
+To which the second man is incredulous, 
+\begin_inset Quotes eld
+\end_inset
+
+WHAT?! THEY GAVE ME A CHIHUAHUA?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter*
@@ -760,20 +1312,42 @@ Well, this of course means that he is free to go.
 \end_layout
 
 \begin_layout Standard
-"You know what? No!" says the executioner.
- "I've had it with you, your stupid bananas, and walking out of here unharmed.
+\begin_inset Quotes eld
+\end_inset
+
+You know what? No!
+\begin_inset Quotes erd
+\end_inset
+
+ says the executioner.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I've had it with you, your stupid bananas, and walking out of here unharmed.
  I'm not giving you a thing to eat.
- We're strapping you in and doing this now." It's against protocol, but the
- executioner straps the man into the electric chair without a last meal.
+ We're strapping you in and doing this now.
+\begin_inset Quotes erd
+\end_inset
+
+ It's against protocol, but the executioner straps the man into the electric
+ chair without a last meal.
  The executioner throws the switch, sparks fly, and smoke fills the room
  - and the man sits there unharmed.
  The executioner is speechless.
 \end_layout
 
 \begin_layout Standard
-The man looks at the executioner and says, "Oh, the bananas have nothing
- to do with it.
- I'm just a bad conductor."
+The man looks at the executioner and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, the bananas have nothing to do with it.
+ I'm just a bad conductor.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -787,20 +1361,50 @@ A cop sits on the side of the road, checking for speeders.
 \end_layout
 
 \begin_layout Standard
-He runs up to the car's window and yells, "What are you doing with twelve
- penguins in the back of your car?!"
+He runs up to the car's window and yells, 
+\begin_inset Quotes eld
+\end_inset
+
+What are you doing with twelve penguins in the back of your car?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The guy says "...I dunno..."
+The guy says 
+\begin_inset Quotes eld
+\end_inset
+
+...I dunno...
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Cop replies, "Well, I think you should bring those penguins to the zoo!"
+Cop replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, I think you should bring those penguins to the zoo!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"OK!" the guy replies.
+\begin_inset Quotes eld
+\end_inset
+
+OK!
+\begin_inset Quotes erd
+\end_inset
+
+ the guy replies.
 \end_layout
 
 \begin_layout Standard
@@ -814,11 +1418,26 @@ The cop hits the sirens, and pulls the guy over again.
 \end_layout
 
 \begin_layout Standard
-"I THOUGHT I TOLD YOU TO BRING THOSE PENGUINS TO THE ZOO!"
+\begin_inset Quotes eld
+\end_inset
+
+I THOUGHT I TOLD YOU TO BRING THOSE PENGUINS TO THE ZOO!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Guy replies "I already did! And now we're going to the movies!"
+Guy replies 
+\begin_inset Quotes eld
+\end_inset
+
+I already did! And now we're going to the movies!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -838,49 +1457,128 @@ super
  He's driving very fast, when suddenly he sees police lights behind him.
  He pulls over, and, when the officer comes up to the window, the officer's
  eyes go wide.
- He says to the pope, "Hold on a minute." The officer goes back to his car
- to radio the chief.
+ He says to the pope, 
+\begin_inset Quotes eld
+\end_inset
+
+Hold on a minute.
+\begin_inset Quotes erd
+\end_inset
+
+ The officer goes back to his car to radio the chief.
  
 \end_layout
 
 \begin_layout Standard
-He says to the chief, "Chief, we have a situation.
- I've pulled over an important figure."
+He says to the chief, 
+\begin_inset Quotes eld
+\end_inset
+
+Chief, we have a situation.
+ I've pulled over an important figure.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The chief replies, "How important? A governor, or something?"
+The chief replies, 
+\begin_inset Quotes eld
+\end_inset
+
+How important? A governor, or something?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The cop says, "No sir.
- He's bigger."
+The cop says, 
+\begin_inset Quotes eld
+\end_inset
+
+No sir.
+ He's bigger.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The chief replies, "Bigger?! A celebrity or something?"
+The chief replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Bigger?! A celebrity or something?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The cop says, "More important, sir."
+The cop says, 
+\begin_inset Quotes eld
+\end_inset
+
+More important, sir.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The chief replies, "A major politician?"
+The chief replies, 
+\begin_inset Quotes eld
+\end_inset
+
+A major politician?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The cop says, "No sir, he's much more important."
+The cop says, 
+\begin_inset Quotes eld
+\end_inset
+
+No sir, he's much more important.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The chief replies, "WELL, WHO IS IT!?"
+The chief replies, 
+\begin_inset Quotes eld
+\end_inset
+
+WELL, WHO IS IT!?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The cop says, "Well...
+The cop says, 
+\begin_inset Quotes eld
+\end_inset
+
+Well...
  actually, I'm not sure.
- But the pope's his driver."
+ But the pope's his driver.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -889,28 +1587,68 @@ Unlicensed Fishing
 
 \begin_layout Standard
 A game warden catches an unlicensed fisherman in the act.
- "You're going to pay a big fine for all those fish in your bucket."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You're going to pay a big fine for all those fish in your bucket.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The fisherman replies, "But, officer, I didn't catch these - they're my
- pet fish, and I just bring them here to swim.
- When they're done, they jump back into the bucket."
+The fisherman replies, 
+\begin_inset Quotes eld
+\end_inset
+
+But, officer, I didn't catch these - they're my pet fish, and I just bring
+ them here to swim.
+ When they're done, they jump back into the bucket.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The warden says, "Oh really? This I've got to see.
- If you can prove it, I'll let you go."
+The warden says, 
+\begin_inset Quotes eld
+\end_inset
+
+Oh really? This I've got to see.
+ If you can prove it, I'll let you go.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The fisherman empties the bucket into the lake and waits patiently.
  A few minutes go by and nothing happens.
- The game warden says, "So where are the fish?"
+ The game warden says, 
+\begin_inset Quotes eld
+\end_inset
+
+So where are the fish?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The fisherman replies, "What fish?"
+The fisherman replies, 
+\begin_inset Quotes eld
+\end_inset
+
+What fish?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -920,7 +1658,15 @@ Driving Nuns
 \begin_layout Standard
 Sitting on the side of the rural highway, waiting to catch speeding drivers,
  a state police officer sees a car puttering along at 22 mph.
- He thinks to himself, "This driver is just as dangerous as a speeder!".
+ He thinks to himself, 
+\begin_inset Quotes eld
+\end_inset
+
+This driver is just as dangerous as a speeder!
+\begin_inset Quotes erd
+\end_inset
+
+.
  He turns on his lights, and pulls the driver over.
 \end_layout
 
@@ -928,35 +1674,87 @@ Sitting on the side of the rural highway, waiting to catch speeding drivers,
 Approaching the car, he notices that four very old nuns sitting in it.
  One in the front seat, driving, and three in the back - wide-eyed and white
  as ghosts.
- The driver, obviously confused, says to him, "Officer, I don't understand.
- I was doing exactly the speed limit! What seems to be the problem?"
+ The driver, obviously confused, says to him, 
+\begin_inset Quotes eld
+\end_inset
+
+Officer, I don't understand.
+ I was doing exactly the speed limit! What seems to be the problem?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Sister," says the officer, "You weren't speeding, but you should know that
- driving slower than the speed limit can also be a danger to other drivers".
+\begin_inset Quotes eld
+\end_inset
+
+Sister,
+\begin_inset Quotes erd
+\end_inset
+
+ says the officer, 
+\begin_inset Quotes eld
+\end_inset
+
+You weren't speeding, but you should know that driving slower than the speed
+ limit can also be a danger to other drivers
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
-"Slower than the speed limit? No sir, I was doing the speed limit exactly...
- twenty-two miles per hour!" the elderly nun says, a bit proudly.
+\begin_inset Quotes eld
+\end_inset
+
+Slower than the speed limit? No sir, I was doing the speed limit exactly...
+ twenty-two miles per hour!
+\begin_inset Quotes erd
+\end_inset
+
+ the elderly nun says, a bit proudly.
 \end_layout
 
 \begin_layout Standard
 The state police officer, trying to contain a chuckle, explains to her that
- "22" is the route number, not the speed limit.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+22
+\begin_inset Quotes erd
+\end_inset
+
+ is the route number, not the speed limit.
  A bit embarassed, the nun grins and thanks the police officer for pointing
  out her error.
 \end_layout
 
 \begin_layout Standard
-"But before I let you go ma'am, I have to ask...
+\begin_inset Quotes eld
+\end_inset
+
+But before I let you go ma'am, I have to ask...
  Is everyone in this car ok? Your sisters seem awfully shaken, and they
- haven't uttered a single peep this whole time," the officer asks.
+ haven't uttered a single peep this whole time,
+\begin_inset Quotes erd
+\end_inset
+
+ the officer asks.
 \end_layout
 
 \begin_layout Standard
-"Oh, they will be alright in a minute officer, we just got off Route 119."
+\begin_inset Quotes eld
+\end_inset
+
+Oh, they will be alright in a minute officer, we just got off Route 119.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1187,15 +1985,38 @@ Two Atoms
 
 \begin_layout Standard
 Two atoms are walking down the street together.
- The first atom turns and says, "Hey, you just stole an electron from me!"
+ The first atom turns and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, you just stole an electron from me!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Are you sure?" asks the second atom.
+\begin_inset Quotes eld
+\end_inset
+
+Are you sure?
+\begin_inset Quotes erd
+\end_inset
+
+ asks the second atom.
 \end_layout
 
 \begin_layout Standard
-To which the first atom replies, "Yeah, I'm positive!"
+To which the first atom replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Yeah, I'm positive!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1203,11 +2024,27 @@ Neutron's Drink
 \end_layout
 
 \begin_layout Standard
-A neutron walks into a bar and asks, "How much for a drink?" 
+A neutron walks into a bar and asks, 
+\begin_inset Quotes eld
+\end_inset
+
+How much for a drink?
+\begin_inset Quotes erd
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
-To which the bartender replies, "For you, no charge."
+To which the bartender replies, 
+\begin_inset Quotes eld
+\end_inset
+
+For you, no charge.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1223,8 +2060,15 @@ Tachyon
 \end_layout
 
 \begin_layout Standard
-The bartender says, "We don't service time travelers here." A tachyon walks
- into a bar.
+The bartender says, 
+\begin_inset Quotes eld
+\end_inset
+
+We don't service time travelers here.
+\begin_inset Quotes erd
+\end_inset
+
+ A tachyon walks into a bar.
 \end_layout
 
 \begin_layout Section*
@@ -1237,13 +2081,27 @@ A Higgs boson walks into a cathedral.
 \end_layout
 
 \begin_layout Standard
-"You call yourself the God particle! That's sacrilege, and I insist you
- leave immediately!"
+\begin_inset Quotes eld
+\end_inset
+
+You call yourself the God particle! That's sacrilege, and I insist you leave
+ immediately!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The Higgs boson smugly asks, "Well, if you don't allow Higgs bosons, then
- how do you have mass?"
+The Higgs boson smugly asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, if you don't allow Higgs bosons, then how do you have mass?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1257,11 +2115,26 @@ A bacterium walks into a restaurant, ignores everyone, and walks straight
 \end_layout
 
 \begin_layout Standard
-"Hey, you can't be back here! Employees only."
+\begin_inset Quotes eld
+\end_inset
+
+Hey, you can't be back here! Employees only.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The bacteria responds, "It's okay, I'm staph."
+The bacteria responds, 
+\begin_inset Quotes eld
+\end_inset
+
+It's okay, I'm staph.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1286,7 +2159,15 @@ A photon checks into a hotel, and the bellhop asks if he needs any help
 \end_layout
 
 \begin_layout Standard
-The photon says, "No thanks, I'm traveling light!"
+The photon says, 
+\begin_inset Quotes eld
+\end_inset
+
+No thanks, I'm traveling light!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1295,8 +2176,16 @@ Helium
 
 \begin_layout Standard
 Helium walks into a bar.
- The bartender says, "Hey, we don't serve noble gasses here.
- Get out!" Helium doesn't react.
+ The bartender says, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, we don't serve noble gasses here.
+ Get out!
+\begin_inset Quotes erd
+\end_inset
+
+ Helium doesn't react.
 \end_layout
 
 \begin_layout Section*
@@ -1308,7 +2197,14 @@ What did the math book say to its therapist?
 \end_layout
 
 \begin_layout Standard
-"I've got a lot of problems..."
+\begin_inset Quotes eld
+\end_inset
+
+I've got a lot of problems...
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1373,7 +2269,15 @@ Pavlov opens the front door to a bar.
 \end_layout
 
 \begin_layout Standard
-He immediately turns around and says "Uh oh, it's time to feed the dogs!"
+He immediately turns around and says 
+\begin_inset Quotes eld
+\end_inset
+
+Uh oh, it's time to feed the dogs!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1396,25 +2300,63 @@ Mathematicians vs.
 \begin_layout Standard
 Two physicists are traveling in a hot-air balloon and suddenly realize that
  they're lost.
- They shout down to a guy in the meadow, "Where are we?"
+ They shout down to a guy in the meadow, 
+\begin_inset Quotes eld
+\end_inset
+
+Where are we?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The guy thinks for a bit, and then replies, "You're in a hot-air balloon."
+The guy thinks for a bit, and then replies, 
+\begin_inset Quotes eld
+\end_inset
+
+You're in a hot-air balloon.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-One physicist says to the other, "Well, he's definitely a mathematician."
+One physicist says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, he's definitely a mathematician.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Why do you say that?"
+\begin_inset Quotes eld
+\end_inset
+
+Why do you say that?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Well first of all, he took a while to think up a response.
+\begin_inset Quotes eld
+\end_inset
+
+Well first of all, he took a while to think up a response.
  Second of all, his answer is perfectly logical.
- Third of all, his answer is completely useless."
+ Third of all, his answer is completely useless.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1435,8 +2377,15 @@ Relativity
 
 \begin_layout Standard
 Einstein is on a train leaving New York.
- He leans over to another passenger and asks, "Excuse me, do you know when
- Boston stops at this train?"
+ He leans over to another passenger and asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Excuse me, do you know when Boston stops at this train?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1453,15 +2402,30 @@ A group of mathematicians and a group of engineers are traveling together
 \end_layout
 
 \begin_layout Standard
-Suddenly one of the mathematicians shouts: "Conductor coming!" All the mathemati
-cians disappear into one washroom.
+Suddenly one of the mathematicians shouts: 
+\begin_inset Quotes eld
+\end_inset
+
+Conductor coming!
+\begin_inset Quotes erd
+\end_inset
+
+ All the mathematicians disappear into one washroom.
  
 \end_layout
 
 \begin_layout Standard
 The conductor checks the ticket of each engineer, and then knocks on the
- washroom door, saying, "Your ticket, please." The mathematicians stick the
- one ticket they have under the door, the conductor checks it and leaves.
+ washroom door, saying, 
+\begin_inset Quotes eld
+\end_inset
+
+Your ticket, please.
+\begin_inset Quotes erd
+\end_inset
+
+ The mathematicians stick the one ticket they have under the door, the conductor
+ checks it and leaves.
  A few minutes later, when it's safe, the mathematicians come out of the
  washroom.
  The engineers are impressed.
@@ -1475,13 +2439,29 @@ When the conference comes to an end, the engineers decide that they are
 \end_layout
 
 \begin_layout Standard
-Again, one of the mathematicians shouts, "Conductor coming!" 
+Again, one of the mathematicians shouts, 
+\begin_inset Quotes eld
+\end_inset
+
+Conductor coming!
+\begin_inset Quotes erd
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
 All the engineers rush off to one washroom.
  One of the mathematicians goes to that washroom, knocks at the door, and
- says, "Your ticket, please..."
+ says, 
+\begin_inset Quotes eld
+\end_inset
+
+Your ticket, please...
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1569,7 +2549,14 @@ What did 8 say to 3?
 \end_layout
 
 \begin_layout Standard
-"ARE YOU OKAY?!! I'LL GET YOU TO A HOSPITAL! JUST HOLD ON!"
+\begin_inset Quotes eld
+\end_inset
+
+ARE YOU OKAY?!! I'LL GET YOU TO A HOSPITAL! JUST HOLD ON!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -1828,7 +2815,15 @@ To who?
 \end_layout
 
 \begin_layout Standard
-No, "To whom".
+No, 
+\begin_inset Quotes eld
+\end_inset
+
+To whom
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section*
@@ -1844,15 +2839,36 @@ A: To get to the idiot's house.
 \end_layout
 
 \begin_layout Standard
-"Knock Knock"
+\begin_inset Quotes eld
+\end_inset
+
+Knock Knock
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Who's there?"
+\begin_inset Quotes eld
+\end_inset
+
+Who's there?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"The Chicken"
+\begin_inset Quotes eld
+\end_inset
+
+The Chicken
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2175,7 +3191,15 @@ How many tenors does it take to change a light bulb?
 
 \begin_layout Standard
 Six.
- One to change the bulb, and five to sneer, "It's too high for him."
+ One to change the bulb, and five to sneer, 
+\begin_inset Quotes eld
+\end_inset
+
+It's too high for him.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2238,8 +3262,15 @@ How many guitar players does it take to change a light bulb?
 \end_layout
 
 \begin_layout Standard
-12 - One to do it, and eleven to stand around and say, "Pffffffft! I can
- do that!"
+12 - One to do it, and eleven to stand around and say, 
+\begin_inset Quotes eld
+\end_inset
+
+Pffffffft! I can do that!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2284,7 +3315,15 @@ Two Fish
 
 \begin_layout Standard
 Two fish are in a tank.
- One says to the other, "You man the gun, and I'll drive!"
+ One says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+You man the gun, and I'll drive!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2293,7 +3332,15 @@ Two Soldiers
 
 \begin_layout Standard
 Two soldiers are in a tank.
- One says to the other, "Blub-blub-blub-blub..."
+ One says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+Blub-blub-blub-blub...
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2302,7 +3349,15 @@ Two Parrots
 
 \begin_layout Standard
 Two parrots are sitting on a perch.
- One says to the other, "Do you smell fish?"
+ One says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+Do you smell fish?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2311,11 +3366,27 @@ Two Muffins
 
 \begin_layout Standard
 Two muffins are in the oven.
- One says to the other, "Is it me, or is it hot in here?"
+ One says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+Is it me, or is it hot in here?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-To which the other one replies, "Holy cow! A talking muffin!"
+To which the other one replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Holy cow! A talking muffin!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2324,12 +3395,28 @@ Two Cows
 
 \begin_layout Standard
 Two cows graze in a pasture.
- One says to the other, "What do you think about this mad cow disease?"
+ One says to the other, 
+\begin_inset Quotes eld
+\end_inset
+
+What do you think about this mad cow disease?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-To which the other cow replies, "Doesn't bother me.
- I'm a chicken."
+To which the other cow replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Doesn't bother me.
+ I'm a chicken.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter*
@@ -2457,7 +3544,15 @@ Talking Dog
 
 \begin_layout Standard
 A guy is driving around Tennessee and he sees a sign in front of a house:
- "Talking Dog For Sale."
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Talking Dog For Sale.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2466,17 +3561,42 @@ He rings the bell and the owner tells him the dog is in the back yard.
 \end_layout
 
 \begin_layout Standard
-"You talk?" the man asks.
- "Yes, I do," the lab replies.
+\begin_inset Quotes eld
+\end_inset
+
+You talk?
+\begin_inset Quotes erd
+\end_inset
+
+ the man asks.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, I do,
+\begin_inset Quotes erd
+\end_inset
+
+ the lab replies.
 \end_layout
 
 \begin_layout Standard
-"So, what's your story?"
+\begin_inset Quotes eld
+\end_inset
+
+So, what's your story?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The lab looks up and says, "Well, I discovered that I could talk when I
- was pretty young.
+The lab looks up and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, I discovered that I could talk when I was pretty young.
  I wanted to help the country, so I told the CIA about my gift.
  In no time at all, they had me jetting from country to country, sitting
  in rooms with spies and world leaders, because no one figured a dog would
@@ -2487,7 +3607,11 @@ The lab looks up and says, "Well, I discovered that I could talk when I
  I signed up for a job at the airport to do some undercover security wandering
  near suspicious characters and listening in.
  I uncovered some incredible dealings and was awarded a batch of medals.
- I got married, had a mess of puppies, and now I'm just retired."
+ I got married, had a mess of puppies, and now I'm just retired.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2496,16 +3620,37 @@ The guy is amazed.
 \end_layout
 
 \begin_layout Standard
-"Ten dollars."
+\begin_inset Quotes eld
+\end_inset
+
+Ten dollars.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Ten dollars? This dog is amazing! Why on earth are you selling him so cheap?!"
+\begin_inset Quotes eld
+\end_inset
+
+Ten dollars? This dog is amazing! Why on earth are you selling him so cheap?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Because he's a liar.
- He never did any of that stuff!"
+\begin_inset Quotes eld
+\end_inset
+
+Because he's a liar.
+ He never did any of that stuff!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2541,20 +3686,51 @@ A tiger walks into a bar.
 \end_layout
 
 \begin_layout Standard
-The bartender says, "What'll you have?
+The bartender says, 
+\begin_inset Quotes eld
+\end_inset
+
+What'll you have?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The tiger replies, "I'll have a........................................................................................................
- Coke."
+The tiger replies, 
+\begin_inset Quotes eld
+\end_inset
+
+I'll have a...............................................Coke.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The bartender says, "What's with the big pause?"
+The bartender says, 
+\begin_inset Quotes eld
+\end_inset
+
+What's with the big pause?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The tiger replies, "I was born with 'em!"
+The tiger replies, 
+\begin_inset Quotes eld
+\end_inset
+
+I was born with 'em!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2578,7 +3754,15 @@ Pterodactyls
 \end_layout
 
 \begin_layout Standard
-Why don't you hear pterodactyls go to the bathroom? Because the "p" is silent!
+Why don't you hear pterodactyls go to the bathroom? Because the 
+\begin_inset Quotes eld
+\end_inset
+
+p
+\begin_inset Quotes erd
+\end_inset
+
+ is silent!
 \end_layout
 
 \begin_layout Section*
@@ -2587,8 +3771,23 @@ Dragons
 
 \begin_layout Standard
 Two dragons walk into a bar.
- The first dragon says, "Hey! It's really hot in here!" The second dragon
- replies, "Shut your mouth."
+ The first dragon says, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey! It's really hot in here!
+\begin_inset Quotes erd
+\end_inset
+
+ The second dragon replies, 
+\begin_inset Quotes eld
+\end_inset
+
+Shut your mouth.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2600,17 +3799,38 @@ Two snakes are talking to each other.
 \end_layout
 
 \begin_layout Standard
-"Hey...
- are we poisonous?"
+\begin_inset Quotes eld
+\end_inset
+
+Hey...
+ are we poisonous?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Yes.
- Why do you care?"
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+ Why do you care?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Because I just bit my tongue."
+\begin_inset Quotes eld
+\end_inset
+
+Because I just bit my tongue.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2800,35 +4020,93 @@ A hip young man goes out and buys the best car available, a brand-new red
 
 \begin_layout Standard
 An old man, about 75 years old, on a moped pulls up next to him.
- The old man looks over at the sleek, red, shiny new car and asks, "What
- kind of car ya got there, sonny?"
+ The old man looks over at the sleek, red, shiny new car and asks, 
+\begin_inset Quotes eld
+\end_inset
+
+What kind of car ya got there, sonny?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The young man replies, "A Ferrari LaFerrari supercar.
- It cost 2.7 million dollars!"
+The young man replies, 
+\begin_inset Quotes eld
+\end_inset
+
+A Ferrari LaFerrari supercar.
+ It cost 2.7 million dollars!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"That's a lot of money," says the old man.
- "Why does it cost so much?"
+\begin_inset Quotes eld
+\end_inset
+
+That's a lot of money,
+\begin_inset Quotes erd
+\end_inset
+
+ says the old man.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Why does it cost so much?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Because this car can do up to 217 miles an hour!" states the young man
- proudly.
- The old man asks, "Mind if I take a look inside?"
+\begin_inset Quotes eld
+\end_inset
+
+Because this car can do up to 217 miles an hour!
+\begin_inset Quotes erd
+\end_inset
+
+ states the young man proudly.
+ The old man asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Mind if I take a look inside?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"No problem," replies the owner.
+\begin_inset Quotes eld
+\end_inset
+
+No problem,
+\begin_inset Quotes erd
+\end_inset
+
+ replies the owner.
 \end_layout
 
 \begin_layout Standard
 The old guy pokes his head in the window and looks around.
- Then, sitting back on his moped, he says, "That's a pretty nice car, all
- right...
- but I'll stick with my little moped!"
+ Then, sitting back on his moped, he says, 
+\begin_inset Quotes eld
+\end_inset
+
+That's a pretty nice car, all right...
+ but I'll stick with my little moped!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2841,8 +4119,14 @@ Then the light changes, so the young guy decides to show the old man just
 \end_layout
 
 \begin_layout Standard
-"What on earth could be going faster than my Ferrari?!" the young man asks
- himself.
+\begin_inset Quotes eld
+\end_inset
+
+What on earth could be going faster than my Ferrari?!
+\begin_inset Quotes erd
+\end_inset
+
+ the young man asks himself.
  He floors the accelerator and takes the Ferrari up to 160 mph.
  Then, up ahead of him, he sees that it's the old man on the moped.
 \end_layout
@@ -2865,14 +4149,29 @@ Not 10 seconds later, he sees the moped bearing down on him again.
 The young man slows down and pulls over.
  The old man follows, but looks white as a ghost and is completely out of
  breath.
- The young man stammers, "H-h-how did you keep up with my LaFerrari?!" The
- old man whispers "Unhook...
+ The young man stammers, 
+\begin_inset Quotes eld
+\end_inset
+
+H-h-how did you keep up with my LaFerrari?!
+\begin_inset Quotes erd
+\end_inset
+
+ The old man whispers 
+\begin_inset Quotes eld
+\end_inset
+
+Unhook...
  my...
  suspenders...
  from...
  your...
  side-view...
- mirror."
+ mirror.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -2976,8 +4275,15 @@ A Mexican magician says that he'll disappear on the count of three.
 \end_layout
 
 \begin_layout Standard
-"Uno...
- dos..." POOF!
+\begin_inset Quotes eld
+\end_inset
+
+Uno...
+ dos...
+\begin_inset Quotes erd
+\end_inset
+
+ POOF!
 \end_layout
 
 \begin_layout Standard
@@ -2997,13 +4303,28 @@ Class Answer
 \end_layout
 
 \begin_layout Standard
-A teacher stands in front of her class and says, "Now class, whatever I
- ask, I want you all to answer at once.
- How much is six plus four?"
+A teacher stands in front of her class and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Now class, whatever I ask, I want you all to answer at once.
+ How much is six plus four?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The class replies in unison, "At once!"
+The class replies in unison, 
+\begin_inset Quotes eld
+\end_inset
+
+At once!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3021,8 +4342,16 @@ Tom, Dick, and Harry head to a party.
  Lastly, Harry agrees tell a sad story during the last one hundred stories.
  They start up the steps.
  After two hours, it's Harry's turn.
- He turns to the other two and says, "Ok guys.
- Here's my sad story: I think I lost the room key at the party."
+ He turns to the other two and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Ok guys.
+ Here's my sad story: I think I lost the room key at the party.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3036,10 +4365,24 @@ An rural European family has been practicing English for months, anticipating
  they don't make it to America until three AM in the morning.
  The airport is deserted, and the exhausted family, with their father in
  the lead, makes their way to the exit.
- Eventually, they come to an escalator, with the sign reading, "MUST CARRY
- DOGS ON ESCALATOR".
- The dad sighs and exclaims "Oh great, where are we gonna find a dog at
- this hour?!"
+ Eventually, they come to an escalator, with the sign reading, 
+\begin_inset Quotes eld
+\end_inset
+
+MUST CARRY DOGS ON ESCALATOR
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The dad sighs and exclaims 
+\begin_inset Quotes eld
+\end_inset
+
+Oh great, where are we gonna find a dog at this hour?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3047,12 +4390,27 @@ Wheelchair
 \end_layout
 
 \begin_layout Standard
-A wife says to her husband, "I don't like you pushing me around all the
- time and talking behind my back!"
+A wife says to her husband, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't like you pushing me around all the time and talking behind my back!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Her husband says, "Well, what do you expect?! You're in a wheelchair!".
+Her husband says, 
+\begin_inset Quotes eld
+\end_inset
+
+Well, what do you expect?! You're in a wheelchair!
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section*
@@ -3064,8 +4422,15 @@ Two men are working in a field.
  One digs little holes, while the other fills them up behind him.
  They are working diligently when a passer-by noticed their hard work and
  can't help but inquire as to why they are merely digging and filling holes.
- The first man responds, "We normally have a third man dropping in a seed,
- but he's out sick today."
+ The first man responds, 
+\begin_inset Quotes eld
+\end_inset
+
+We normally have a third man dropping in a seed, but he's out sick today.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3094,7 +4459,15 @@ Two beers
 
 \begin_layout Standard
 A man walks into a bar with a big slab of asphalt in his backpack.
- He says to the bartender, "I’ll take a beer, and one for the road."
+ He says to the bartender, 
+\begin_inset Quotes eld
+\end_inset
+
+I’ll take a beer, and one for the road.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3257,8 +4630,23 @@ When asked what she'd been doing, she explains that she had dug an outfit
 \end_layout
 
 \begin_layout Standard
-"Well," the first nun says, "You know what they say...
- old habits dye hard."
+\begin_inset Quotes eld
+\end_inset
+
+Well,
+\begin_inset Quotes erd
+\end_inset
+
+ the first nun says, 
+\begin_inset Quotes eld
+\end_inset
+
+You know what they say...
+ old habits dye hard.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3285,21 +4673,51 @@ A man and his wife are watching the weather report featuring Danish weatherman
 \end_layout
 
 \begin_layout Standard
-The man says, "I don't believe this guy.
- We have had no rain all summer."
+The man says, 
+\begin_inset Quotes eld
+\end_inset
+
+I don't believe this guy.
+ We have had no rain all summer.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The wife says, "I think he's right, darling."
+The wife says, 
+\begin_inset Quotes eld
+\end_inset
+
+I think he's right, darling.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Why's that?" the man replies.
+\begin_inset Quotes eld
+\end_inset
+
+Why's that?
+\begin_inset Quotes erd
+\end_inset
+
+ the man replies.
 \end_layout
 
 \begin_layout Standard
-The wife turns to her husband and says, "Because Rudolph the Red knows rain,
- dear."
+The wife turns to her husband and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Because Rudolph the Red knows rain, dear.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3327,21 +4745,67 @@ A woman, nine months pregnant with twins, gets into a car wreck.
 \end_layout
 
 \begin_layout Standard
-"Oh no!" The mother cries.
- "My brother is an idiot.
- He probably gave them awful names!"
+\begin_inset Quotes eld
+\end_inset
+
+Oh no!
+\begin_inset Quotes erd
+\end_inset
+
+ The mother cries.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+My brother is an idiot.
+ He probably gave them awful names!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The brother shows up a few hours later with the twin babies.
- First, he hands his sister the baby girl, and says "This is Denise." "Oh,
- thank goodness!" she says.
- "Denise is a lovely name.
- What did you name the boy?" she asks.
+ First, he hands his sister the baby girl, and says 
+\begin_inset Quotes eld
+\end_inset
+
+This is Denise.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Oh, thank goodness!
+\begin_inset Quotes erd
+\end_inset
+
+ she says.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Denise is a lovely name.
+ What did you name the boy?
+\begin_inset Quotes erd
+\end_inset
+
+ she asks.
 \end_layout
 
 \begin_layout Standard
-He says, "Denephew."
+He says, 
+\begin_inset Quotes eld
+\end_inset
+
+Denephew.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3425,15 +4889,37 @@ Sherlock Holmes and Dr.
 \end_layout
 
 \begin_layout Standard
-"Watson, look up at the sky and tell me what you see."
+\begin_inset Quotes eld
+\end_inset
+
+Watson, look up at the sky and tell me what you see.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Watson replies, "I see millions and millions of stars."
+Watson replies, 
+\begin_inset Quotes eld
+\end_inset
+
+I see millions and millions of stars.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"What does that tell you?" Holmes asks.
+\begin_inset Quotes eld
+\end_inset
+
+What does that tell you?
+\begin_inset Quotes erd
+\end_inset
+
+ Holmes asks.
 \end_layout
 
 \begin_layout Standard
@@ -3441,14 +4927,21 @@ Watson ponders for a minute.
 \end_layout
 
 \begin_layout Standard
-"Astronomically, it tells me that there are millions of galaxies and potentially
+\begin_inset Quotes eld
+\end_inset
+
+Astronomically, it tells me that there are millions of galaxies and potentially
  billions of planets.
  Astrologically, I observe that Saturn is in Leo.
  Horologically, I deduce that the time is approximately a quarter past three.
  Theologically, I can see that God is all-powerful and that we are small
  and insignificant.
  Meteorologically, I suspect that we will have a beautiful day tomorrow.
- What does it tell you, Holmes?"
+ What does it tell you, Holmes?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3456,8 +4949,15 @@ Holmes is silent for a minute, then speaks.
 \end_layout
 
 \begin_layout Standard
-"Watson, you idiot.
- Somebody has stolen our tent!"
+\begin_inset Quotes eld
+\end_inset
+
+Watson, you idiot.
+ Somebody has stolen our tent!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3467,31 +4967,70 @@ Chips
 \begin_layout Standard
 A guy walks into a mexican restaurant and takes a seat.
  Before he gets to order his food, the bowl of tortilla chips in front of
- him says, "Hey, you're a handsome fellow."
+ him says, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, you're a handsome fellow.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The man tries to ignore the chips, and goes to get a soda from self-serve
  drink machine.
- The drink machine yells at him, "Get away from me, you ugly troll!"
+ The drink machine yells at him, 
+\begin_inset Quotes eld
+\end_inset
+
+Get away from me, you ugly troll!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 The man is frightened and runs back to his table with his drink.
- The chips say, "Ooooh! That drink looks delicious.
+ The chips say, 
+\begin_inset Quotes eld
+\end_inset
+
+Ooooh! That drink looks delicious.
  Great choice.
- You're a very smart man."
+ You're a very smart man.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Starting to freak out, the guy says to the waiter, "Hey, what the heck!
- The soda machine yelled at me, and this bowl of chips keeps saying nice
- things to me!"
+Starting to freak out, the guy says to the waiter, 
+\begin_inset Quotes eld
+\end_inset
+
+Hey, what the heck! The soda machine yelled at me, and this bowl of chips
+ keeps saying nice things to me!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The waiter says, "Don't worry about it.
- The tortilla chips are complimentary and the drink machine is out-of-order."
+The waiter says, 
+\begin_inset Quotes eld
+\end_inset
+
+Don't worry about it.
+ The tortilla chips are complimentary and the drink machine is out-of-order.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3512,11 +5051,33 @@ Ugly Baby
 
 \begin_layout Standard
 A woman gets on a bus with her baby.
- The bus driver says, "Ugh, that's the ugliest baby I've ever seen!" The
- woman walks to the rear of the bus and sits down, fuming.
- She says to a man next to her, "The driver just insulted me!" The man says,
- "You should go up there and tell him off.
- Go on, I'll hold your monkey for you."
+ The bus driver says, 
+\begin_inset Quotes eld
+\end_inset
+
+Ugh, that's the ugliest baby I've ever seen!
+\begin_inset Quotes erd
+\end_inset
+
+ The woman walks to the rear of the bus and sits down, fuming.
+ She says to a man next to her, 
+\begin_inset Quotes eld
+\end_inset
+
+The driver just insulted me!
+\begin_inset Quotes erd
+\end_inset
+
+ The man says, 
+\begin_inset Quotes eld
+\end_inset
+
+You should go up there and tell him off.
+ Go on, I'll hold your monkey for you.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3525,17 +5086,54 @@ First Day of School
 
 \begin_layout Standard
 It's the first day of school.
- Harry's mother goes into his bedroom and says, "Come on Harry! Time to
- get up! You have to go to school today!"
+ Harry's mother goes into his bedroom and says, 
+\begin_inset Quotes eld
+\end_inset
+
+Come on Harry! Time to get up! You have to go to school today!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"But I don't want to go to school," replies Harry, "I want to stay in bed.
- Why do I have to go to school?!"
+\begin_inset Quotes eld
+\end_inset
+
+But I don't want to go to school,
+\begin_inset Quotes erd
+\end_inset
+
+ replies Harry, 
+\begin_inset Quotes eld
+\end_inset
+
+I want to stay in bed.
+ Why do I have to go to school?!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-"Because," answers his mother, "you're the teacher!"
+\begin_inset Quotes eld
+\end_inset
+
+Because,
+\begin_inset Quotes erd
+\end_inset
+
+ answers his mother, 
+\begin_inset Quotes eld
+\end_inset
+
+you're the teacher!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3719,7 +5317,14 @@ What did one strawberry say to the other strawberry?
 \end_layout
 
 \begin_layout Standard
-"If you weren't so fresh, we wouldn't be in this jam!"
+\begin_inset Quotes eld
+\end_inset
+
+If you weren't so fresh, we wouldn't be in this jam!
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -3761,8 +5366,15 @@ Poor hamburger
 
 \begin_layout Standard
 A hamburger walks into a bar and asks the bartender for a menu.
- The bartender looks down at him and says, "I'm sorry, we don't serve food
- here."
+ The bartender looks down at him and says, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, we don't serve food here.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter*
@@ -3802,7 +5414,14 @@ What did the shy pebble say?
 \end_layout
 
 \begin_layout Standard
-"I wish I was a little boulder."
+\begin_inset Quotes eld
+\end_inset
+
+I wish I was a little boulder.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -4006,7 +5625,14 @@ What did he say at his acceptance speech?
 \end_layout
 
 \begin_layout Standard
-"Hay, it's in my jeans."
+\begin_inset Quotes eld
+\end_inset
+
+Hay, it's in my jeans.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -4144,14 +5770,36 @@ String walks into a pub
 
 \begin_layout Standard
 A string walks into a pub and orders a beer.
- The bartender says, "I'm sorry, but we don't serve strings here." So, the
- string walks out sad.
+ The bartender says, 
+\begin_inset Quotes eld
+\end_inset
+
+I'm sorry, but we don't serve strings here.
+\begin_inset Quotes erd
+\end_inset
+
+ So, the string walks out sad.
  He has a brilliant idea, though.
  He will disguise himself so that the bartender will not recognize him.
  He ties himself into a knot and messes up his hair.
  He then marches back into the pub and orders again.
- The bartender asks, "Aren't you that same string that ordered earlier?"
- The string replies, "No, I'm a frayed knot."
+ The bartender asks, 
+\begin_inset Quotes eld
+\end_inset
+
+Aren't you that same string that ordered earlier?
+\begin_inset Quotes erd
+\end_inset
+
+ The string replies, 
+\begin_inset Quotes eld
+\end_inset
+
+No, I'm a frayed knot.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_body
